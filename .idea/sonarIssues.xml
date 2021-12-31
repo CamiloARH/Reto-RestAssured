@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.dummy">
           <value>
             <set />
@@ -23,7 +28,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../RetoPOM/src/main/java/co/com/sofka/page/DespegarPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RetoPOM/src/main/java/co/com/sofka/page/common/CommonActionOnPages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RetoPOM/src/test/java/co/com/sofka/stepdefinition/despegarTestStepdefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RetoPOMFactory/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RetoPOMFactory/src/main/java/co/com/sofka/page/ZonaFitPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RetoPOMFactory/src/test/java/co/com/sofka/runner/ZonaFitTestCucumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../RetoPOMFactory/src/test/java/co/com/sofka/stepdefinition/ZonaFitTestStepdefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/sofka/util/Log4jValues.java">
           <value>
             <set />
           </value>

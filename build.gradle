@@ -14,7 +14,8 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.2'
     implementation group: 'io.cucumber', name: 'cucumber-java', version: '6.11.0'
     implementation group: 'io.cucumber', name: 'cucumber-junit', version: '6.11.0'
-    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.17.0'
+//    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.17.1'
+    implementation 'log4j:log4j:1.2.17'
 
     // https://mvnrepository.com/artifact/io.rest-assured/rest-assured
     testImplementation group: 'io.rest-assured', name: 'rest-assured', version: '4.4.0'
